@@ -1,8 +1,0 @@
-/Users/hewro/Documents/work/bupt/study/SimpleConnect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/hewro/Documents/work/bupt/study/SimpleConnect/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/hewro/Documents/work/bupt/study/SimpleConnect/cmake-build-debug/server/CMakeFiles/rebuild_cache.dir
-/Users/hewro/Documents/work/bupt/study/SimpleConnect/cmake-build-debug/server/CMakeFiles/edit_cache.dir
-/Users/hewro/Documents/work/bupt/study/SimpleConnect/cmake-build-debug/server/CMakeFiles/server_1.dir
-/Users/hewro/Documents/work/bupt/study/SimpleConnect/cmake-build-debug/client/CMakeFiles/rebuild_cache.dir
-/Users/hewro/Documents/work/bupt/study/SimpleConnect/cmake-build-debug/client/CMakeFiles/edit_cache.dir
-/Users/hewro/Documents/work/bupt/study/SimpleConnect/cmake-build-debug/client/CMakeFiles/client_1.dir
