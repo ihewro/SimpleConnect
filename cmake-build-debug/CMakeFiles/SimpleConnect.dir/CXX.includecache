@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hewro/Documents/work/bupt/study/SimpleConnect/client.cpp
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+
