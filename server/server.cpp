@@ -86,9 +86,9 @@ int main() {
         }else{
             max = serv_sock ;
         }
-        cout << "文件描述符范围" << max <<endl;
+//        cout << "文件描述符范围" << max <<endl;
         int r = select(max+1, &fdRead, &fdWrite, &fdExp, NULL);
-        cout << "处理可读事件数目"<< r << endl;
+//        cout << "处理可读事件数目"<< r << endl;
 
         if (FD_ISSET(serv_sock, &fdRead)) {//
             FD_CLR(serv_sock, &fdRead);
@@ -133,7 +133,7 @@ int main() {
 //                cout << "收到消息" <<endl;
                 for(int i =0;i<c_list.size();i++){
                     //向客户端发送数据
-                    send(c_list[i], "2333", 128,0);
+                    send(c_list[i], r, 128,0);
                 }
             }
         }
